@@ -1,0 +1,10 @@
+gradio
+chromadb 
+langchain_community 
+langchain_text_splitters 
+langchain_groq 
+langchain_chroma 
+gradio 
+python-dotenv 
+pypdf
+sentence-transformers
